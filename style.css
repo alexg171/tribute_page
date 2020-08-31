@@ -1,0 +1,56 @@
+
+body {
+    background: white;
+    font-family: sans-serif;
+  
+  }
+  
+  main {
+    background: #e6e6e6;
+    border-radius: 5px;
+  }
+  
+  #title {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #info {
+    text-align: center;
+  }
+  
+  #img-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background: white;
+    border-radius: 5px;
+    width: 800px;
+    text-align: center;
+  }
+  
+  #img-caption {
+    padding: 5px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #tribute-info {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  h2 {
+   text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
